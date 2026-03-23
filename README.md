@@ -13,8 +13,7 @@ Build a blog preview card and make it look as close as possible to the provided 
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-desing.jpg
+![Screenshot](./desing.jpg)
 
 
 > Add your own screenshot to the project root as `screenshot.png` (or change the path above). In Firefox: right‑click the page → **Take Screenshot**.
