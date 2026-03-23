@@ -15,9 +15,6 @@ Build a blog preview card and make it look as close as possible to the provided 
 ### Screenshot
 ![Screenshot](./desing.jpg)
 
-
-> Add your own screenshot to the project root as `screenshot.png` (or change the path above). In Firefox: right‑click the page → **Take Screenshot**.
-
 ### Links
 
 - Solution URL: [Add your Frontend Mentor solution URL here](https://www.frontendmentor.io/solutions)
