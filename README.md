@@ -14,7 +14,9 @@ Build a blog preview card and make it look as close as possible to the provided 
 
 ### Screenshot
 
-![Blog preview card solution](./screenshot.png)
+![Blog preview card solution](<img width="1006" height="912" alt="image" src="https://github.com/user-attachments/assets/72e2de87-2f2e-4ec4-82f2-30445c9b3965" />
+)![Uploading image.png…]()
+
 
 > Add your own screenshot to the project root as `screenshot.png` (or change the path above). In Firefox: right‑click the page → **Take Screenshot**.
 
